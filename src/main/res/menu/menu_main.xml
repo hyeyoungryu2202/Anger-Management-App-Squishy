@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.angieryu2202.myapplication.MainActivity">
+
+    <item android:title="DEGREES" />
+    <item android:title="ANGER GRAPH" />
+    <item android:title="GIFS/VIDEOS" />
+</menu>
